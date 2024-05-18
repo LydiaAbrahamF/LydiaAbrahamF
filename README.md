@@ -3,7 +3,6 @@
 <h3> 👷🏼‍♀️ Senior Elelctrical and Computer Engineering Student at AASTU. </h3>
 <h3>📝 Prosepect Undergrad Researcher. I am working to come up with a very solid contribution through my undergrad thesis. </h3>
 <h3> 🤖 I have worked on IoT projects using Arduino, RasberryPi and PIC Microcontrollers, Along with Web Applications and Mobile Apps Integration</h3>
-<h3> 👩🏼‍💻 Working as QA and Product Marketing at AWURA Computing PLC </h3>
 <h3>👀 I’m interested in Machine Learning, AI and Data Science. </h3>
 <h3>🌱 I’m currently working on Machine Leanrning Projects and Participating in Virtual Experiences Programms in Data Scienece and Data Analytics </h3>
 <h3> These are my hobbies: <h1>👩🏽‍💻,⚽️, 📖, 🏃🏼‍♀️,🚴🏻‍♀️, 🏊🏼‍♀️</h1>  </h3>
