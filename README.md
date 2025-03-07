@@ -1,10 +1,8 @@
 <h1> 👋 Hello, I am called Lydia Wellcome !</h1> 
 <p>
-<h3> 👷🏼‍♀️ Senior Elelctrical and Computer Engineering Student at AASTU. </h3>
-<h3>📝 Prosepect Undergrad Researcher. I am working to come up with a very solid contribution through my undergrad thesis. </h3>
-<h3> 🤖 I have worked on IoT projects using Arduino, RasberryPi and PIC Microcontrollers, Along with Web Applications and Mobile Apps Integration</h3>
-<h3>👀 I’m interested in Machine Learning, AI and Data Science. </h3>
-<h3>🌱 I’m currently working on Machine Leanrning Projects and Participating in Virtual Experiences Programms in Data Scienece and Data Analytics </h3>
+<h3> 👷🏼‍♀️ Electrical and Computer Engineering Graduate. </h3>
+<h3>📝 Junior Data Analyst and Business Intelligence Consultant at Kaldi's Coffee Ethiopia </h3>
+<h3>👀 I’m interested in Machine Learning, AI, and Data Science. </h3>
 <h3> These are my hobbies: <h1>👩🏽‍💻,⚽️, 📖, 🏃🏼‍♀️,🚴🏻‍♀️, 🏊🏼‍♀️</h1>  </h3>
 <h3>📫 Reach me out through:</h3>
  
@@ -14,7 +12,8 @@
   <a href = "https://www.instagram.com/lydia_ab00/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <h2>Languages and Tools:</h2>
   <p align="center">
-    <img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+   <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
