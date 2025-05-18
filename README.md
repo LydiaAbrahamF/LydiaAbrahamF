@@ -1,7 +1,7 @@
 <h1> 👋 Hello, I am called Lydia Wellcome !</h1> 
 <p>
 <h3> 👷🏼‍♀️ Electrical and Computer Engineering Graduate. </h3>
-<h3>📝 Data Analyst>
+<h3>📝 Data Analyst </h3>
 <h3>👀 I’m interested in Machine Learning, AI, and Data Science. </h3>
 <h3> These are my hobbies: <h1>👩🏽‍💻,⚽️, 📖, 🏃🏼‍♀️,🚴🏻‍♀️, 🏊🏼‍♀️</h1>  </h3>
 <h3>📫 Reach me out through:</h3>
