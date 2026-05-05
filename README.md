@@ -34,8 +34,6 @@
  </p>
 <p>
   
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LydiaAbrahamF)](https://github.com/LydiaAbrahamF)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaAbrahamF&layout=compact)](https://github.com/LydiaAbrahamF)
 </p>
 
