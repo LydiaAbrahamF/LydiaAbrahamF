@@ -1,43 +1,34 @@
-<h1> 👋 Hello, I am called Lydia Wellcome !</h1> 
-<p>
-<h3> 👷🏼‍♀️ Electrical and Computer Science student. </h3>
-<h3>📝 Junior Researcher  </h3>
-<h3>👀 I’m interested in Machine Learning, Computer Vision, and Data Science. </h3>
-<h3> These are my hobbies: <h1>👩🏽‍💻,⚽️, 📖, 🏃🏼‍♀️,🚴🏻‍♀️, 🏊🏼‍♀️</h1>  </h3>
-<h3>📫 Reach me out through:</h3>
- 
-</p>
-  <!--a href= "https://www.linkedin.com/in/lydiaabrahamfirew/"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
-  <a href= "https://twitter.com/mahijar5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
-  <a href = "https://www.instagram.com/lydia_ab00/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <h2>Languages and Tools:</h2>
-  <p align="center">
-    <img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-   <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  </p>
-  <p align="center">
-    <img src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img src= "https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-    <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
- </p>
-<p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaAbrahamF&layout=compact)](https://github.com/LydiaAbrahamF)
-</p>
+# Hi, I'm Lydia 👋
 
-<!---
-LydiaAbrahamF/LydiaAbrahamF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**ML researcher** with an electrical engineering background, working on computer vision, deep learning, and ML-based security.
+
+- 🎓 MSc student in Research and Innovation in Computer-based Science and Engineering 
+- 🔬 Junior Researcher at **KFUPM** (Jan – Aug 2026): computer vision, NLP, Deep Learning and ML-based network security
+- 🌱 Interested in building efficient, reliable ML systems, including deployment in resource-constrained settings
+- 📍 Spain
+
+## Featured projects
+
+| Project | What it is |
+|---|---|
+| [**ALT-YOLO**](https://github.com/LydiaAbrahamF/alt-yolo-maritime-uav-sar) | Altitude-conditioned small object detection for maritime UAV search and rescue. Altitude-conditioned SAHI inference and HSV/CLAHE glare-aware preprocessing on SeaDronesSee ODv2. Submitted to ACCV 2026. |
+| [**LUNA-Analysis**](https://github.com/LydiaAbrahamF/LUNA-Analysis) | Reproducible pipeline on the LUNA dataset for benign vs. malignant lung nodule classification, with localization as a secondary task. |
+
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydiaabrahamfirew)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lydiafirew00@gmail.com)
+
+Outside of work: ⚽ 📖 🏃🏼‍♀️ 🚴🏻‍♀️ 🏊🏼‍♀️
