@@ -1,9 +1,8 @@
 # Hi, I'm Lydia 👋
 
 **ML researcher** with an electrical engineering background, working on computer vision, deep learning, and ML-based security.
-
-- 🎓 MSc student in Research and Innovation in Computer-based Science and Engineering 
-- 🔬 Junior Researcher at **KFUPM** (Jan – Aug 2026): computer vision, NLP, Deep Learning and ML-based network security
+ 
+- 🔬 Junior Researcher in computer vision, NLP, Deep Learning and ML-based network security
 - 🌱 Interested in building efficient, reliable ML systems, including deployment in resource-constrained settings
 - 📍 Spain
 
